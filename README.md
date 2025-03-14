@@ -63,7 +63,7 @@ Description of repo1.
 Description of repo2.
 ```
 
-## 📜 License
+## 📜 License 
 
 This project is licensed under the the best license in the world, the [WTFPL License](https://en.wikipedia.org/wiki/WTFPL). See the [LICENSE](LICENSE) file for details.
 
